@@ -7,7 +7,7 @@ Django==1.11.3
 django-cors-headers==2.1.0
 django-model-utils==3.0.0
 django-mysql==2.1.0
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 docutils==0.14
 idna==2.6
 jmespath==0.9.3
